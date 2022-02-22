@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An enquiry into the present state of affairs and in particular, whether we owe allegiance to the King in these circumstances and whether we are bound to treat with him, and to call him back again, or not.</title>
+            <author>Burnet, Gilbert, 1643-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30367</idno>
+            <idno type="STC">Wing B5812</idno>
+            <idno type="STC">ESTC R35456</idno>
+            <idno type="EEBO-CITATION">15313443</idno>
+            <idno type="OCLC">ocm 15313443</idno>
+            <idno type="VID">103410</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30367)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103410)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1146:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An enquiry into the present state of affairs and in particular, whether we owe allegiance to the King in these circumstances and whether we are bound to treat with him, and to call him back again, or not.</title>
+                  <author>Burnet, Gilbert, 1643-1715.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh re-printed :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Published anonymously; attributed to G. Burnet by Wing and NUC pre-1956 imprints.</note>
+                  <note>Imperfect: stained, with loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Revolution of 1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:103410:1"/>
+            <head>
+               <hi>ENQUIRY INTO THE <hi>Preſent State of Affairs:</hi>
+               </hi> And in particular, Whether we owe Allegiance to the KING in theſe Circumſtances? And whether we are bound to Treat with Him, and call Him back again, or not?</head>
+            <head type="sub">Publiſhed by Authority.</head>
+            <p n="1">1. SInce the Subject that is now undertaken, is of ſuch vaſt conſe<g ref="char:EOLhyphen"/>quence both to the Quiet of the Nation in General, and to the ſettling of the Conſcience of every man in it, it ſhall be treated with all poſſible plainneſs, and with that ſimplicity of Stile, which may ſhew that the Writer intends rather to convince than to amuſe or miſlead his Reader. It is certain, That the Reciprocal Duties in Civil Societies, are Protection and Allegiance; and whereſoever the one fails wholly, the other falls with it: This is ſo true, that in the only Government which is founded on the Law of Nature, I mean the Authority of a Father over his Children, if after a long courſe of rough and barbarous uſage, a Father goes about to deſtroy his Children, they owe him no other regard, but that of a due care of his Perſon; for ſince their beeing was conveyed to them through him, they are for ever bound to preſerve that Life which gave be<g ref="char:EOLhyphen"/>ginning to theirs; but as to their Service and Obedience, they are without doubt abſolved, when a Father ceaſes to be a Father by becoming an Enemy. This is much more true with relation to eve<g ref="char:EOLhyphen"/>ry Form of Political Government, in which there is a mutual tye of Protection and Obedience, according to that Syſtem of Government given by <hi>St, Paul</hi> in his Epiſtle to the <hi>Romans, Chap.</hi> 13. in the firſt ſeven Verſes.</p>
+            <list>
+               <pb n="2" facs="tcp:103410:2"/>
+               <item>1. <hi>Let every ſoul be ſubject unto the higher powers: for there is no power but of God. The powers that b<gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ained of God.</hi>
+               </item>
+               <item>2. <hi>Whoſoever therefore reſiſ<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> reſiſteth the ordinance of God: and they that reſiſt, ſhall recei<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>lves damnation.</hi>
+               </item>
+               <item>3. <hi>For rulers are not a terror to g<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> works, but to the evil. Wilt thou not be afraid of the power? do that which is good, and thou ſhalt have praiſe of the ſame.</hi>
+               </item>
+               <item>4. <hi>For he is the minister of God to thee for good: but if thou do that which is evil, be afraid: for he beareth not the ſword in vain: for he is the miniſter of God, a revenger to execute wrath upon him that doth evil.</hi>
+               </item>
+               <item>5. <hi>Wherefore ye must needs be ſubject, not only for wrath, but alſo for conſcience ſake.</hi>
+               </item>
+               <item>6. <hi>For, for this cauſe pay you tribute alſo: for they are Gods miniſters, attending continually upon this very thing.</hi>
+               </item>
+               <item>7. <hi>Render therefore to all their dues, tribute to whom tribute is due, cuſtom to whom cuſtom, fear to whom fear, honour to whom honour.</hi>
+               </item>
+            </list>
+            <p>In theſe Words we have the Duty of the Magiſtrate, as well as the Obedience of the Subject, ſet forth, and ſo mixt together, that we muſt conclude, that upon the total failing of the one, the other does likewiſe ceaſe.</p>
+            <p n="2">2. I ſuppoſe few will diſpute the matter of Fact, that the King be<g ref="char:EOLhyphen"/>ing puſhed on by his Zeal for a Religion that muſt, by its nature, firſt deceive, and then deſtroy us, was ſubverting this Eſtabliſh<g ref="char:EOLhyphen"/>ment both with reference to our Religious, and to our Temporal Concerns; and that as this was carried on a great way, even to the Subverſion of our Government and Laws, ſo it muſt have ended at laſt in the total Ruin of both, and in the exchanging that Indepen<g ref="char:EOLhyphen"/>dent Freedom, which is the preſent Glory, as well as the Security of the Nation, into a Subjection to a Forreign and Antichriſtian Yoke. This being confeſſed by thoſe for whom this Paper is writ<g ref="char:EOLhyphen"/>ten, it were needleſs, and might ſeem invidious to ſet about the proving of it. In a word, That which ought to have been our Se<g ref="char:EOLhyphen"/>curity, was become our greateſt Danger; as if the Cannon of a Fort
+<pb n="3" facs="tcp:103410:2"/>
+th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ought to point at the Enemy, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>re turn'd on the Inhabitants; in which caſe, how abſolute ſoever the Authority of a Governor may be, yet as ſoon as it appears that the Bulwarks, in ſtead of being the Defences of the City, are become Batteries to ruin it, Nature will lead to a ſhort way of Arguing: And all men will forget that one is their Governour, when they clearly ſee that he intends to turn their Deſtroyer.</p>
+            <p n="3">3. A King's deſerting his People, and withdrawing both his Per<g ref="char:EOLhyphen"/>ſon and his Seals, by which the Peace, Juſtice and Order of the Nation are preſerved, does certainly warrant them to look to their own ſafety and preſervation; and when they are obliged to do this by ways and methods that are inconſiſtent with his Authority, and that are ſo many Crimes if they ſtood ſtill under any engagements to him, then they muſt be conſidered as acquitted from all their Ties to him. It is the Great Seal that is the head Spring of our Go<g ref="char:EOLhyphen"/>vernment, as the King's Preſence, or the Preſence of any that are De<g ref="char:EOLhyphen"/>puted by him gives life to it: when then this diſappears, and the King withdraws himſelf, without naming any Perſons to Repreſent him, the Government is certainly laid down and forſaken by him. Indeed, if any eminent preſent Danger, or juſt fear (tho a King can never be decently ſuſpected of that) had driven the King away, it might ſeem a little too hard to urge this too much. But when a Treaty was ſet on foot, and when by the Propoſals which the Prince had made, and that came to the King the night before he left <hi>Whitehall,</hi> the Power both Civil and Military, the Army, the Fleet, the Forts, and the Revenue, were ſtill left in his Hands, and that the Princes Army was not to come within 30 Miles of him, and that the Settle<g ref="char:EOLhyphen"/>ment of the Nation was referr'd to a Parliament (which was that which the King ſeem'd to deſire, by his publick Declaration, tho he ſhew'd his Averſeneſs by deſtroying the Writs) and when all that was propoſed, that can be called hard, was only the execu<g ref="char:EOLhyphen"/>ting the Law againſt Papiſts that were in Employments, the giving the City of <hi>London</hi> ſome quiet from their juſt fears, and the aſſign<g ref="char:EOLhyphen"/>ing
+<pb n="4" facs="tcp:103410:3"/>
+the Pay for the Prince's <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; all this being laid together, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>plain that the King had no juſt <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>le cauſe of fear upon him; and that therefore the withdrawing himſelf, was the forſaking of his People, which put them on the neceſſity of looking to their own ſafety in the beſt manner they could.</p>
+            <p n="4">4. It ſeems plain, that our Allegiance being our tye to the King, according to the conſtitution of this Government, it is either entire<g ref="char:EOLhyphen"/>ly diſſolved, or it ſubſiſts ſtill in its full vigour and force: If it is en<g ref="char:EOLhyphen"/>tirely diſſolved, then we are under no obligations to the King; and if that bond is once untied, ſo that our Conſciences are freed from it, it will be a hard task to perſwade men, that they ought to re<g ref="char:EOLhyphen"/>turn to it again: If it ſtands in its full force, then we ought to recal the King, imploring only his Pardon for what is paſt, without en<g ref="char:EOLhyphen"/>tering upon any previous Treaty, or preſuming to offer any Articles to him. If it is ſaid, that the Allegiance, tho it ſtill remains, yet is under a ſuſpenſion; as in the Caſe of an Infant or a Mad-man, in which a Guardian may be neceſſary for the Adminiſtration of the Government, tho the Right and Dignity is ſtill in the Perſon of the King, and that therefore, tho the King's miſguided Zeal may have rendred him unfit to Govern, yet the Title and Dignity of a King ought ſtill to be preſerved, even when the Regency may be put in other hands. To this it is to be oppoſed, That in caſe of Infancy, or Lunacy, the incapacity to govern is tranſient in the one, and ſo pitiable in the other, that this will not afford an Argument in fa<g ref="char:EOLhyphen"/>vour of an Incapacity that is affected and culpable: Beſides, in thoſe Caſes, there is no danger to the Government, by any ſtruggle be<g ref="char:EOLhyphen"/>tween the King and the Regent; which cannot be avoided where a King is of Age, and under no other diſtemper, but that which is the effect of his Religion. In this Caſe a Conteſt is inevitable: A King without Power cannot be much at his eaſe; and his ſtruggle for it muſt either end in the overthrowing the Regency, if not in the Aſſaſſinating the Regent; or in the Impriſonment of the King,
+<pb n="5" facs="tcp:103410:3"/>
+which muſt needs have ſuch fatal conſequences, that it is not to be imagined that any of the King's Children, in whom Piety and Nature work, can ever engage into a ſtate of Life that gives them ſo me<g ref="char:EOLhyphen"/>lancholly a Proſpect: Beſides, that the Name and Title of <hi>KING</hi> carry a ſound with them that ſtrikes the People; And if now, af<g ref="char:EOLhyphen"/>ter all the provocation that the Nation is under at preſent, it is yet thought fit to let the Title and Dignity remain in the King, it will be natural for all men, when that ſharpneſs is over, to ſoften, and to think that things have been carried too far: And ſince no Go<g ref="char:EOLhyphen"/>vernment is ſecure from Accidents, and free from all the ſubjects of diſcontent, it is not unreaſonable to foreſee, that the leaving any Root in the ground, may occaſion a new Spring at ſome diſtance of time, when paſt Errors may be forgot, and the preſent Accidents may give another turn to mens thoughts. We are likewiſe as much bound by the Oath of Allegiance to maintain the King's State, and all his Prerogatives, as his Title and Dignity. It will look like the condemning our own Actions, to allow him the Honour, and to take from him the Power of a King; ſo that if the Oath may be ſlack<g ref="char:EOLhyphen"/>ened in one Point, I do not ſee why it muſt of neceſſity bind us in another. In a word, we do either too little or too much, if we al<g ref="char:EOLhyphen"/>low him to be King, and do not likewiſe veſt him with the whole extent of the Royal Authority.</p>
+            <p n="5">5. In all Settlements, it is very natural for men to look for good Security, eſpecially for thoſe, who being newly come out of a Storm, have the terror of it ſtill on their thoughts; now what Security can be propoſed in any Treaty with the King? We ſee what inſignifi<g ref="char:EOLhyphen"/>cant things Promiſes and Oaths are, when Popery is in the other Scale; and to truſt any more, is too impudent a Propoſition, to ap<g ref="char:EOLhyphen"/>prehend that any one ſhould inſiſt upon it. As for all Limitation by Laws, when that for the Teſt-Act, which was penn'd with all poſ<g ref="char:EOLhyphen"/>ſible Caution, has been broke through by a pretended Diſpenſing Power, it is a vain thing to truſt ſuch Remedies, againſt an ungo<g ref="char:EOLhyphen"/>vern'd Zeal, which when whetted with Reſentment muſt act with ſo
+<pb n="6" facs="tcp:103410:4"/>
+much the more Rigor and Fury. We have alſo many Inſtances in our own time, to ſhew us how little regard is to be had to all the Of<g ref="char:EOLhyphen"/>fers that are made in general Terms, in order to the gaining of a great Point, which being once gained, thoſe Offers are no more thought of. To make way for the late King's Reſtauration, nothing was ſo much talked of, as the Terms on which he ſhould be reſtored, but the Point was no ſooner gain'd than the Terms were not only forgot, but all things were carried higher than before. And a few years ago when the Nation was ſet on the Bill of Excluſion, all thoſe who oppoſed it were framing Schemes of limiting a Popiſh Succeſſor; but that Storm was no ſooner weather'd, than a Party was form'd that carried their Victory ſo far, that in ſtead of Limitations, all the chief Securities and Fences of our Government were thought the only proper Sacrifice to atone for the guilt of attempting the Excluſion. So if a Treaty were once opened, and the King were to be brought back again, on what terms ſoever it might be, we ſhould probably ſee the whole deſign of Popery and Arbitrary Government return upon us with more fury than ever: and we ſhould find our ſelves in no poſſibility of reſiſting it, or being redeemed from it; for this Deliverance was no ſuch eaſy Performance as to make us think that ſuch another could ever be compaſſed, or that God will work new Miracles for our Preſervation, after we had thrown our ſelves back into that miſerable Condition out of which he has reſcued us.</p>
+            <p n="6">6. If it be inſiſted on that the Oaths of Supremacy and Allegi<g ref="char:EOLhyphen"/>ance are conceived in ſuch terms, that there is no breaking thro' them; and that we have ſworn that we ſhall never take Arms a<g ref="char:EOLhyphen"/>gainſt the King; that we have renounced the Poſition, as trai<g ref="char:EOLhyphen"/>terous, of making a diſtinction between the King's <hi>Perſon</hi> and his <hi>Power;</hi> in ſhort, that we are under the moſt expreſs ties that can be put in words, never to rebel againſt the King, nor to ſhake off his Authority. To all this it is to be anſwered, that the end and de<g ref="char:EOLhyphen"/>ſign of thoſe Oaths was to ſecure us againſt the danger of Popery, as any one may ſee in the Acts by which they were Impoſed: And tho
+<pb n="7" facs="tcp:103410:4"/>
+all theſe Oaths are ſtill to the King; yet that is to a Prince who ſubſiſts upon Law, and rules by Law; and therefore if the King ceaſes to be King, by ſubverting our Conſtitution firſt, and deſert<g ref="char:EOLhyphen"/>ing us nixt, then all our Oaths fall to the ground: as the Matrimo<g ref="char:EOLhyphen"/>nial Oath, tho made for term of Life, yet is capable of being diſſol<g ref="char:EOLhyphen"/>ved, when that which is the Eſſence of the Bond is broke. And if the King ceaſes to be a King, then the <hi>next Heir becomes the only lawful and rightful King:</hi> and if the next is a <hi>Femme Co<g ref="char:EOLhyphen"/>vert,</hi> then by the Law of Nations, which creates a Communication of all the Rights of the Wife to the Husband, this is likewiſe com<g ref="char:EOLhyphen"/>municated, ſo that here we may have ſtill a <hi>lawful and rightful King.</hi> And after all, it is plain that if any diminution of the Regal Autho<g ref="char:EOLhyphen"/>rity be impoſed on the King, as the condition upon which only he can be admitted, this very Impoſition is as real a breach of the Oath, as a total ſhaking him off. This makes a vaſt difference between the King's <hi>Perſon</hi> and his <hi>Power,</hi> tho that is a Point expreſly re<g ref="char:EOLhyphen"/>nounc'd in the Oaths that we ſwear; ſo that it is plain after all, that if the Oath of Allegiance binds us ſtill, it binds us to a great deal more than thoſe that are for treating ſeem willing to allow.</p>
+            <p n="7">7. All the Schemes that may be offered of ſecuring us by a Trea<g ref="char:EOLhyphen"/>ty with the King, have ſuch viſible Defects in them, that Men who are accuſtomed to examine things, cannot be deceived by them. We have had it given for Law of late, too often to forget it, that all Acts of Parliament that are to the <hi>Diſheriſon of the Crown,</hi> are null and void of themſelves: So here all the Securities that can be offered us, are ſwept away at once. We can have no legal Parlia<g ref="char:EOLhyphen"/>ment without ſwearing firſt the Oath of Allegiance to the King; and what a ſcorn is put on God and Religion if one ſwear this Oath to the King after he is reduced to that naked State to which theſe Treaters pretend to bring him. Nor can the Nation have any Se<g ref="char:EOLhyphen"/>curity by Law, either for what is done, or for what may remain yet to be done, but by Acts that are paſt by <hi>King, Lords,</hi> and <hi>Com<g ref="char:EOLhyphen"/>mons.</hi> Men are to be pardoned if they are uneaſy, till they have
+<pb n="8" facs="tcp:103410:5"/>
+the utmoſt Security that the Conſtitution can give them. And after all whoſoever is the <hi>King for the time being,</hi> he has the Law ſo intirely of his ſide, that tho during the preſent Fermentation the force of this is not perceptible, yet it is a Cruelty not to be eaſily forgiven to keep a Nation too long in ſo dangerous a Condi<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="8">8. But after all ſome Men plainly ſay, <hi>the King can do no Wrong,</hi> that his Miniſters are only accountable for all the Ill he had done; and that the Prince in his Declaration has laid the Blame of all that for which he engaged in this great Deſign on the evil Counſellors about the King, on whom the Puniſhment ought to fall, and not on the King himſelf, whoſe Perſon is exempt from Cenſure. To all which this is to be anſwered, that the Maxim, <hi>The King can do no Wrong,</hi> is perverted to a ſenſe very different from that which was at firſt intended by it; for the meaning of it is only this, That the King's Power cannot go ſo far as to ſupport him in the doing of any Injuſtice or Wrong to any, according to that Chapter in <hi>Magna Charta,</hi> by which all Commiſſions granted againſt Law, are declared to be null and void, for this is the true meaning of that Maxime. But there is no reaſon to carry this ſo far as that if Kings will ſtrain their Authority viſibly, to do the higheſt Wrongs poſſible, they were in no way accountable for it. Whatſoever has been done in Parliament, and has never been condemned by any ſubſequent one, is a part of the Law of <hi>England,</hi> ſince then two of our Kings, <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the 2d, and <hi>Richard</hi> the 2d, have been Judged in Parliament for their Mal-Adminiſtration, and ſince theſe Judgements have ne<g ref="char:EOLhyphen"/>ver been vacated by any ſubſequent Parliaments, thoſe proceed<g ref="char:EOLhyphen"/>ings are a part of our Law. And though perhaps there have been more expreſs Definitions made of late in Favour of the Crown than ever were in former times, yet as long as thoſe Proceedings remain upon Record, it is plain that this great Right of the Engliſh Nation of preſerving it ſelf in caſes of extream Neceſſity, againſt the violent Invaſions that the Crown may make upon it, is ſtill entire and in
+<pb n="9" facs="tcp:103410:5"/>
+force. But after all it will be readily yielded, that at the Life of a Father is never to be attempted on by his Children, how great ſo<g ref="char:EOLhyphen"/>ever their Provocations may be; ſo the King being made the Poli<g ref="char:EOLhyphen"/>tical Father of the Country, his perſon ought ſtill to be ſacred. But when the Root of the King's overturning our Laws is his being ſo entirely devoted to his Religion, and to the Order of the Jeſu<g ref="char:EOLhyphen"/>its, how decent ſoever it might be for the Prince to lay the Blame of all on his evil Counſellors, yet it will be an unreaſonable Piece of Tenderneſs in the Repreſentative of the Kingdom not to lay the Blame of things where it ought to be laid.</p>
+            <p n="9">9. Either all thoughts of Treating with the King, or all En<g ref="char:EOLhyphen"/>quiries into the Birth of the pretended Prince of <hi>VVales</hi> are to be laid aſide. The King has gone ſo far in what he has averred, with relation to that matter, that it is impoſſible to judge it an Impo<g ref="char:EOLhyphen"/>ſture without giving him a large ſhare in it; and no Man can think that it is poſſible to maintain the common Decencies of Reſpect to the King, if any ſteps are made in that matter: for even an Enquiry into it is the calling his Honour into queſtion, in ſo ſenſible apoint, that no Man that can make a Diſcovery is ſafe to make it, nor are any ſafe who pretend to examine it, as long as there are any thoughts of treating with him; which will never be believ<g ref="char:EOLhyphen"/>ed to be quite laid down, as long as the Title of King is acknow<g ref="char:EOLhyphen"/>ledged to be ſtill in him. Men that condemn the Errors in Govern<g ref="char:EOLhyphen"/>ment committed by him, may flatter themſelves with the poſſibility of his pardoning them; but there is no Mercy where the Matter is perſonal, in which his Honour is ſo immediately concerned, and where a Judgment againſt the Child caſts ſo black and ſo indelible a ſtain on himſelf.</p>
+            <p n="10">10. If Articles are prepared to be offered to the King, they will be either ſuch as he will probably grant, or ſuch that it cannot in reaſon be expected that he ſhould grant them. The former is not to be ſuppoſed; for ſuch a ſtripping himſelf of Power, as ſeems ne<g ref="char:EOLhyphen"/>ceſſary to give us any tolerable Security, is that which we ought not
+<pb n="10" facs="tcp:103410:6"/>
+to imagine he will grant: and it will appear to the World a trium<g ref="char:EOLhyphen"/>phing over him in his Misfortunes, if we make a ſhew of treating with him, when it is viſible before hand, that the Demands which muſt be made him are ſuch, that he cannot in Honour grant them, nor we in Reaſon expect them from him. When Matters are brought to that paſs at which they are at preſent; it is more ſuit<g ref="char:EOLhyphen"/>able to the Dignity and Wiſdom of the Nation to act frankly and above-board, than to think to varniſh them over with ſome out<g ref="char:EOLhyphen"/>ward Appearances. In ſuch caſes, any other way of proceeding has not that Air of Greatneſs and Openneſs which is neceſſary upon ſuch occaſions. A great deal of time will be loſt in preparing the Propoſitions, and a Treaty being once entertained, many may be practiſed on, and either be corrupted or deſtroyed. And perhaps the half of the Articles will be drop'd in the Treaty, or the whole will be given up by the King in leſs time than was imployed in pre<g ref="char:EOLhyphen"/>paring any one of the Articles. The very talk of a Treaty will keep the Minds of many in Agitation and ſuſpence; Some that are now deſperate with relation to the King, may enter into a ſeparate Treaty with him: and an inconſtant Multitude will be too much tempted to run as faſt to him, as ever they ſhewed Zeal againſt him. That theſe are not imaginary Dangers is viſible to all that have converſed much in Hiſtory, or have obſerved the varieties of Mens Thoughts with relation to publick Affairs, and conſidered how little is to be built on any preſent Heats, how fervent and how univerſal ſoever they may ſeem to be, and how ſoon a Nati<g ref="char:EOLhyphen"/>on may be apt to run even out of one Extream into another, and therefore the keeping things ſtill in a looſe and unſettled State is the hazarding the whole matter, and the runing the risk of a Re<g ref="char:EOLhyphen"/>lapſe, which will be much more dangerous than the former Diſ<g ref="char:EOLhyphen"/>eaſe was, unleſs the King of <hi>France,</hi> who has the King now in his Power, will be pleaſed to mediate for us, out of his tried Love to us and our Religion.</p>
+            <p n="11">
+               <pb n="11" facs="tcp:103410:6"/>11. The clear and natural method of proceeding upon this Oc<g ref="char:EOLhyphen"/>caſion, is, Firſt, To ſtate this Nation as a Proteſtant Kingdom, that is incompatible with Popery, or a Popiſh King; of which O<g ref="char:EOLhyphen"/>pinion many were before the King came to the Crown; and he has ſo managed the Matter ſince, that he has convinced the whole Nation of it at laſt. Here a view may be taken of the Courſe of this Government, in thoſe things that have been Notorious and Publick, without entring into ſuch Specialties as will need proof, and by conſequence take up time; and in concluſion it is to be ſet forth, that he has quitted the Realm in a Storm, and has left the the Nation to ſhift for it ſelf; and has both deſerted the Govern<g ref="char:EOLhyphen"/>ment in general, and abandoned even thoſe who had ſtuck to him, and were ready to have ſacrificed all for him in particular. And that the laſt Act of his Authority might be long remembred, he or<g ref="char:EOLhyphen"/>dered his Army to be disbanded; which (ſince it was to be done without paying or diſarming the Souldiers) was the letting looſe of ſo many Armed Men, under the greateſt temptation to live like <hi>Banditti</hi> and Robbers in the Nation. Upon all this it is na<g ref="char:EOLhyphen"/>tural to declare the Throne void; and that the King has fallen from all Right to it. In all that I have ſaid concerning his Deſert<g ref="char:EOLhyphen"/>tion, I limit my Reflections to his firſt leaving of <hi>Whitehall;</hi> for the Accident at <hi>Feverſham,</hi> and what followed after that, can<g ref="char:EOLhyphen"/>not be called a Return to his People, and ſince the Seals never ap<g ref="char:EOLhyphen"/>peared, and the King never ſpake of a Parliament, nor altered his Meaſures in any thing, but ſtill proſecuted his firſt Deſign by his ſecond Eſcape, his deſerting is ſtill to be dated from his firſt go<g ref="char:EOLhyphen"/>ing from <hi>White-hall,</hi> and he having given that juſt Advantage a<g ref="char:EOLhyphen"/>gainſt himſelf, which came after all that ſeries of Injuſtice and Vio<g ref="char:EOLhyphen"/>lence that had gone before it, no Man can think that it was not very fitting to carry it as far as it would go, and not to Treat with him any more upon the foot of acknowledging him King.</p>
+            <p n="12">12. When all this is laid together, it is not to be ſuppoſed, that conſidering Men can be ſhoked with thoſe Prejudices that ariſe,
+<pb n="12" facs="tcp:103410:7" rendition="simple:additions"/>
+rather out of the ſound of ſome ill underſtood Words, than out of any real and forcible Arguments, and it can leaſt of all be imagin<g ref="char:EOLhyphen"/>ed, that the great and learned Body which has ſo triumphed over Popery in their late Conteſts with it, ſhould now let themſelves be ſo miſled with the narrow Notions of an unbounded Loyalty, as to oppoſe or even to diſlike ſuch a compleat Settlement, as the preſent Exigences of our Affairs requires. Their Worth, the Courage that they ſhewed againſt Popery, and their Readineſs to have been made Sa<g ref="char:EOLhyphen"/>crifices in that noble Reſiſtance, which they both made, and main<g ref="char:EOLhyphen"/>tained to the laſt, has indeed raiſed them above Cenſure, and all ſevere Imputations. But it cannot but leſſen the Eſteem that is due to any, though it does not detract from their Worth, if they will ſtill purſue a point that is lyable to ſuch great and juſt Exceptions. No Body can think they are in Love with Popery; or fond of com<g ref="char:EOLhyphen"/>ing again under Father <hi>Peter's</hi> Miniſtry: but Men that ſee through all the Reaſons that are offered for Treating, and foreſee the fatal Conſequences that muſt attend it, will be tempted to think that ſome Men, either have not ſtrength of thought enough to examine this whole matter more impartially, or that having once declared themſelves of a contrary Opinion, they cannot conquer Nature ſo far, as to do that which will import a Confeſſion of their once hav<g ref="char:EOLhyphen"/>ing been in an Error.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-printed in the Year 1689.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
